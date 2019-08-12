@@ -5,5 +5,8 @@
 </head>
 <body>
 <h1>This is a landing page</h1>
+<a href="indexnew.php">Click here for new index page</a>
+<p>Hi how are you?</p>
+<p>I am doing good.</p>
 </body>
 </html>
